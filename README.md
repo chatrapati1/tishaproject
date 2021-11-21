@@ -1,2 +1,2 @@
-#My first code foe demo
+#My first code for demo
 team velocity
